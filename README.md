@@ -12,7 +12,7 @@
 
 🔭 Most contributions to `Tutor LMS PRO` (Private)
 
-🔭 Gutenberg Blocks `Post Designer` (Private)
+🔭 Gutenberg Blocks [Post Designer](https://github.com/shewa12/post-designer)
 
 🔭 Personal Project [Easy Poll ](https://github.com/shewa12/easy-poll)
 
