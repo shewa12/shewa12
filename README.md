@@ -8,17 +8,17 @@
 
 🔭 Currently working on [Tutor LMS Website](https://tutorlms.com)
 
-🔭 Most contributions to [Tutor LMS](https://github.com/themeum/tutor)
+🔭 Most contributions to [Tutor LMS WP Plugin](https://github.com/themeum/tutor)
 
-🔭 Most contributions to `Tutor LMS PRO` (Private)
+🔭 Most contributions to `Tutor LMS PRO WP Plugin` (Private)
 
-🔭 Gutenberg Blocks [Post Designer](https://github.com/shewa12/post-designer)
+🔭 Gutenberg Blocks [Post Designer Gutenberg Blocks](https://github.com/shewa12/post-designer)
 
-🔭 Personal Project [Easy Poll ](https://github.com/shewa12/easy-poll)
+🔭 Personal Project [Easy Poll WP Plugin](https://github.com/shewa12/easy-poll)
 
 🔭 Side Project [React Widgets ](https://github.com/shewa12/react-widgets)
 
-🌱 I’m currently learning **Docker & Kubernetes, React JS**
+🌱 I’m currently learning **Kubernetes, CI/CD**
 
 👨‍💻 All of my projects are available at [https://shewazone.com](https://shewazone.com)
 
