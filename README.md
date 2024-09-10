@@ -18,7 +18,7 @@
 
 🔭 Side Project [React Widgets ](https://github.com/shewa12/react-widgets)
 
-🌱 I’m currently learning **Kubernetes, CI/CD**
+🌱 I’m currently learning **Kubernetes, AWS**
 
 👨‍💻 All of my projects are available at [https://shewazone.com](https://shewazone.com)
 
